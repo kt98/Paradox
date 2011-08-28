@@ -1,0 +1,1 @@
+This directory is for Paradox team to add any information regarding the project as a whole (schedule, team roles)
