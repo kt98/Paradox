@@ -1,1 +1,1 @@
-This directory is for Paradox team to put any experimental programs.
+This directory is for Paradox team to put any experimental programs or documents. Please place the files in your own folder.
