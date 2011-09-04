@@ -3,4 +3,4 @@
 - rotation (Katie)
 - timer (Arshia)
 - ultrasonic (Jessica, Natalie)
-- touch (Kristina)
+- touch (Grace)
