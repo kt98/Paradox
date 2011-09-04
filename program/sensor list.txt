@@ -1,0 +1,6 @@
+- light (Alyssa, Athena)
+- color (Erikka, Kristina)
+- rotation (Katie)
+- timer (Arshia)
+- ultrasonic (Jessica, Natalie)
+- touch (Grace)
